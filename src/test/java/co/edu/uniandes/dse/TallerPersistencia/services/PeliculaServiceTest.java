@@ -1,4 +1,4 @@
-package co.edu;
+package co.edu.uniandes.dse.TallerPersistencia.services;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
